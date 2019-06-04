@@ -1,0 +1,46 @@
+h1{
+   color:Darkblue; 
+   background-color:white;
+   text-align:center;
+   width:25%;
+   font-size:60px;
+   font-style: oblique;
+}
+h2{
+    color:darkblue;
+    background-color:white;
+   text-align:center;
+   font-style: oblique;
+}
+h3{
+    color:darkblue;
+    background-color:white;
+}
+body{
+    background-image: url(DolbyDigital.jpg);
+    
+    
+}
+p{
+    color:darkblue;
+    font-style: oblique;
+    font-size:18px;
+    
+     
+}
+li{
+    color:darkblue;
+    font-size:18px;
+    width:50%;
+}
+div{
+    color:darkred;
+    background-color:white;
+    width:69%;
+    border:12px double;
+
+}
+.center{
+    display: block;
+    margin:auto;
+}

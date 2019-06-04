@@ -1,0 +1,13 @@
+Body{
+    background-image: url()
+}
+div{
+    color:darkred;
+    background-color:white;
+    width:69%;
+    border:12px double;
+}
+.center{
+    display: block;
+    margin:auto;
+}
