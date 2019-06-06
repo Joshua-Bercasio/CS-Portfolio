@@ -1,8 +1,9 @@
-Body{
-    background-image: url()
+body{
+        background-image: url(AWillSmith.png);
+        background-size: 1366px 768px;
 }
 div{
-    color:darkred;
+    color: Blue;
     background-color:white;
     width:69%;
     border:12px double;
@@ -10,4 +11,23 @@ div{
 .center{
     display: block;
     margin:auto;
+}
+p{
+    color: black;
+    font-size:18px;
+}
+h2{
+    color: black;
+}
+h1{
+    color: Blue;
+    background-color:white;
+    text-align:center;
+
+}
+center{
+    color:black;
+}
+ol{
+    color:black;
 }
